@@ -1,11 +1,13 @@
 package com.coffeepoweredcrew.iterator.strings;
 
+import java.util.Arrays;
+
 public class NameCollection implements Collection<String> {
 
     private String[] names;
 
     public NameCollection(String... names) {
-        this.names = names;
+        this.names = Arrays.copyOf(names, names.length);
     }
 
     @Override

@@ -1,4 +1,4 @@
-package com.coffeepoweredcrew.decorator;
+package com.coffeepoweredcrew.decorator.message;
 
 //Base interface or component
 public interface Message {

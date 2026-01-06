@@ -1,4 +1,4 @@
-package com.coffeepoweredcrew.decorator;
+package com.coffeepoweredcrew.decorator.message;
 
 import java.util.Base64;
 

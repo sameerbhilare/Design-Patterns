@@ -1,4 +1,4 @@
-package com.coffeepoweredcrew.decorator;
+package com.coffeepoweredcrew.decorator.message;
 
 import org.apache.commons.text.StringEscapeUtils;
 

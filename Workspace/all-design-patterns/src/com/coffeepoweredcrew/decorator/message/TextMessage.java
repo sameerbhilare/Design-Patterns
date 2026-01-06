@@ -1,4 +1,4 @@
-package com.coffeepoweredcrew.decorator;
+package com.coffeepoweredcrew.decorator.message;
 
 //Concrete component. Object to be decorated
 public class TextMessage implements Message {

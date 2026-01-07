@@ -1,6 +1,6 @@
-package com.coffeepoweredcrew.abstractfactory2.aws;
+package com.coffeepoweredcrew.abstractfactory2.cloud.aws;
 
-import com.coffeepoweredcrew.abstractfactory2.Storage;
+import com.coffeepoweredcrew.abstractfactory2.cloud.Storage;
 
 //Represents a concrete product in a family "Amazon Web Services"
 public class S3Storage implements Storage {

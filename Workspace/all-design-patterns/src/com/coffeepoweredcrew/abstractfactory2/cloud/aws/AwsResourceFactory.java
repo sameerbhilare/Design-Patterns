@@ -1,9 +1,9 @@
-package com.coffeepoweredcrew.abstractfactory2.aws;
+package com.coffeepoweredcrew.abstractfactory2.cloud.aws;
 
-import com.coffeepoweredcrew.abstractfactory2.Instance;
-import com.coffeepoweredcrew.abstractfactory2.Instance.Capacity;
-import com.coffeepoweredcrew.abstractfactory2.ResourceFactory;
-import com.coffeepoweredcrew.abstractfactory2.Storage;
+import com.coffeepoweredcrew.abstractfactory2.cloud.Instance;
+import com.coffeepoweredcrew.abstractfactory2.cloud.Instance.Capacity;
+import com.coffeepoweredcrew.abstractfactory2.cloud.ResourceFactory;
+import com.coffeepoweredcrew.abstractfactory2.cloud.Storage;
 //Factory implementation for Google cloud platform resources
 public class AwsResourceFactory implements ResourceFactory {
 

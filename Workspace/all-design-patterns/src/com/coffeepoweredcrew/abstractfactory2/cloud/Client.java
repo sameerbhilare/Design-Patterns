@@ -1,8 +1,8 @@
-package com.coffeepoweredcrew.abstractfactory2;
+package com.coffeepoweredcrew.abstractfactory2.cloud;
 
-import com.coffeepoweredcrew.abstractfactory2.Instance.Capacity;
-import com.coffeepoweredcrew.abstractfactory2.aws.AwsResourceFactory;
-import com.coffeepoweredcrew.abstractfactory2.gcp.GoogleResourceFactory;
+import com.coffeepoweredcrew.abstractfactory2.cloud.Instance.Capacity;
+import com.coffeepoweredcrew.abstractfactory2.cloud.aws.AwsResourceFactory;
+import com.coffeepoweredcrew.abstractfactory2.cloud.gcp.GoogleResourceFactory;
 
 public class Client {
 

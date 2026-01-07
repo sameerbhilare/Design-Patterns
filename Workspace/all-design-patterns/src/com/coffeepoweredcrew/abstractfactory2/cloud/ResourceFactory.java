@@ -1,4 +1,4 @@
-package com.coffeepoweredcrew.abstractfactory2;
+package com.coffeepoweredcrew.abstractfactory2.cloud;
 
 //Abstract factory with methods defined for each object type.
 public interface ResourceFactory {

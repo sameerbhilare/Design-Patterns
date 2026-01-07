@@ -1,6 +1,6 @@
-package com.coffeepoweredcrew.abstractfactory2.gcp;
+package com.coffeepoweredcrew.abstractfactory2.cloud.gcp;
 
-import com.coffeepoweredcrew.abstractfactory2.Storage;
+import com.coffeepoweredcrew.abstractfactory2.cloud.Storage;
 
 //Represents a concrete product in a family "Google Cloud Platform"
 public class GoogleCloudStorage implements Storage {

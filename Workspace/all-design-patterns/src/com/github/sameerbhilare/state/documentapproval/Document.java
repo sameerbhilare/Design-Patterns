@@ -14,14 +14,17 @@ public class Document {
         this.state = state;
     }
 
+    // actions on the documents triggering state changes
     public void submit() {
         state.submit(this);
     }
 
+    // actions on the documents triggering state changes
     public void approve() {
         state.approve(this);
     }
 
+    // actions on the documents triggering state changes
     public void reject() {
         state.reject(this);
     }
